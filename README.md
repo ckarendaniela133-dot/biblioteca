@@ -123,6 +123,6 @@ De esta manera, cada clase tiene una responsabilidad diferente:
 * JButton.
 * JOptionPane.
 
-## 🎯 Objetivo
+## Objetivo
 
 El objetivo del proyecto es desarrollar una aplicación que permita gestionar de forma organizada los libros de una biblioteca, aplicando conceptos de *programación orientada a objetos, estructuras de datos, encapsulamiento, validaciones, manejo de errores e interfaces gráficas en Java
